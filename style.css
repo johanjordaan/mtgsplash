@@ -1,0 +1,61 @@
+body
+{
+  border:0;
+  padding:0;
+  margin:0;
+  background: #ffffff url("./images/Kaya-Orzhov-Usurper_RNA.jpg") no-repeat;
+  background-size: cover;
+  background-position: 0px -10px;
+  width:960px;
+  max-width:960px;
+  height:540px;
+  max-height:540px;
+}
+
+.o {
+  opacity: 0.30;
+}
+
+.column {
+  width:960px;
+  max-width:960px;
+  display: inline-block;
+  background-color:rgba(0, 0, 0, 0.5);
+}
+
+.header {
+  height:200px;
+  max-height:200px;
+
+  color: wheat;
+  font-family: Papyrus;
+  font-size: 41px;
+  font-variant: small;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 26.4px;
+}
+
+.header p {
+  float: right;
+  padding-right: 40px;
+}
+
+.message {
+  height:200px;
+  max-height:200px;
+
+  color: white;
+  font-family: Papyrus;
+  font-size: 70px;
+  font-variant: small-caps;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 26.4px;
+}
+
+.footer
+{
+   height:140px;
+   max-height:140px;
+}

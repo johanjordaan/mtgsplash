@@ -1,0 +1,10 @@
+{
+  "name": "mtgspash",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "file-url": "^2.0.2",
+    "nightmare": "^3.0.1"
+  }
+}
